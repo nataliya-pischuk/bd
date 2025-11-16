@@ -56,4 +56,4 @@ employee_id INT Ссылается на сотрудников (employee_id)
 project_id INT Ссылается на проекты (project_id) → ПЕРВИЧНЫЙ КЛЮЧ (employee_id, project_id)
 
 Структурная схема
-![alt text](img/BD.JPG)
+![alt text](img/bd.JPG)
